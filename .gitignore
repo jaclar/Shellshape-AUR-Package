@@ -1,0 +1,7 @@
+# build/download directories
+pkg/
+src/
+
+# packaged files
+*.tar.xz
+*.tar.gz
